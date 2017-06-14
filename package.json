@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-training",
+  "version": "1.0.0",
+  "description": "language fundamentals\r functns\r OOJS\r DOM prog\r ajax",
+  "main": "index.js",
+  "dependencies": {
+    "basic-auth-connect": "^1.0.0",
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "cookie-session": "^2.0.0-beta.2",
+    "express": "^4.15.3",
+    "lite-server": "^2.3.0",
+    "mongodb": "^2.2.28"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalalayan1/nodejs-training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalalayan1/nodejs-training/issues"
+  },
+  "homepage": "https://github.com/dalalayan1/nodejs-training#readme"
+}
